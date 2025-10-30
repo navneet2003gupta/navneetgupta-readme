@@ -30,7 +30,7 @@
 ---
 
 ### 🧩 Featured Projects
-🔹 [Host a Static Website on AWS S3](#) 
+🔹 [[Host a Static Website on AWS S3](https://github.com/navneet2003gupta/Host-a-Static-Website-in-Amazon-S3.git)](#) 
 
 
 ---
