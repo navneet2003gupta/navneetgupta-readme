@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | HTML | linux | Bash
-- 🌐 &nbsp; AWS | Scripting | Automation | Networking
+- 🌐 &nbsp; AWS | Scripting | Automation | Networking 
 - 🔧 &nbsp; Visual Studio code | Git
 
 ---
