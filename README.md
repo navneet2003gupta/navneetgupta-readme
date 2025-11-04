@@ -31,6 +31,8 @@
 
 ### 🧩 Featured Projects
 🔹 [[Host a Static Website on AWS S3](https://github.com/navneet2003gupta/Host-a-Static-Website-in-Amazon-S3.git)](#) 
+🔹 [[Visualize data with Quicksight ]([https://github.com/navneet2003gupta/Host-a-Static-Website-in-Amazon-S3.git](https://github.com/navneet2003gupta/Visualize-data-with-QuickSight.git))](#) 
+
 
 
 ---
